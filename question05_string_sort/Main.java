@@ -14,7 +14,6 @@ public class Main {
 
         System.out.println("Original List: " + fruits);
 
-        // Sorting in descending order using Lambda Expression
         fruits.sort((s1, s2) -> s2.compareTo(s1));
 
         System.out.println("Sorted List (Descending): " + fruits);

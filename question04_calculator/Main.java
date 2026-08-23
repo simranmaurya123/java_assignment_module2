@@ -5,13 +5,8 @@ public class Main {
         int num1 = 20;
         int num2 = 5;
 
-        // Lambda expression for Addition
         Calculator addition = (a, b) -> a + b;
-
-        // Lambda expression for Subtraction
         Calculator subtraction = (a, b) -> a - b;
-
-        // Lambda expression for Multiplication
         Calculator multiplication = (a, b) -> a * b;
 
         System.out.println("Numbers: a = " + num1 + ", b = " + num2);

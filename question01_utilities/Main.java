@@ -1,8 +1,5 @@
 import utilities.MathUtils;
 
-/**
- * Question 1 Demo: Demonstrates the usage of MathUtils from the utilities package.
- */
 public class Main {
     public static void main(String[] args) {
         System.out.println("=== Question 1: Utilities Package & MathUtils Demo ===");
